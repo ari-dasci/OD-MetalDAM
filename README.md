@@ -25,7 +25,11 @@ The labeled set contains 42 grayscale images taken with a scanning electron micr
 
 An additional set of 164 images obtained from the same materials is available as well.
 
-## Associated publication
+## Acknowledgments
+
+This dataset has been generated and provided by ArcelorMittal Global R&D. Special thanks to the researchers Margarita Guerrero Gesto, Rosalía Rementeria Fernández and Laura del Río Fernandez.
+
+## Publications and citations
 
 If you want to cite MetalDAM, please use the following citation:
 
@@ -37,4 +41,4 @@ If you want to cite MetalDAM, please use the following citation:
 }
 ~~~
 
-(this will be updated as soon as the associated paper is published)
+A publication presenting the dataset will be added here soon.
