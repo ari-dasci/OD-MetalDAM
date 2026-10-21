@@ -33,7 +33,25 @@ This dataset has been generated and provided by ArcelorMittal Global R&D. Specia
 
 ## Publications and citations
 
-If you want to cite MetalDAM, please use the following citation:
+If you use MetalDAM, please cite the paper that presents it:
+
+~~~latex
+@article{luengo2022metaldam,
+  title     = {A tutorial on the segmentation of metallographic images:
+               Taxonomy, new {MetalDAM} dataset, deep learning-based ensemble
+               model, experimental analysis and challenges},
+  author    = {Luengo, Juli{\'a}n and Moreno, Ra{\'u}l and Sevillano, Iv{\'a}n and
+               Charte, David and Pel{\'a}ez-Vegas, Adri{\'a}n and
+               Fern{\'a}ndez-Moreno, Marta and Mesejo, Pablo and Herrera, Francisco},
+  journal   = {Information Fusion},
+  volume    = {78},
+  pages     = {232--253},
+  year      = {2022},
+  doi       = {10.1016/j.inffus.2021.09.018}
+}
+~~~
+
+To reference the dataset itself, you can additionally use:
 
 ~~~latex
 @misc{metaldam,
@@ -43,12 +61,7 @@ If you want to cite MetalDAM, please use the following citation:
 }
 ~~~
 
-The dataset is presented in:
-
-J. Luengo, R. Moreno, I. Sevillano-García, D. Charte, A. Peláez-Vegas, M. Fernández-Moreno, P. Mesejo, F. Herrera.
-*A tutorial on the segmentation of metallographic images: Taxonomy, new MetalDAM dataset,
-deep learning-based ensemble model, experimental analysis and challenges.*
-Information Fusion 78 (2022) 232–253. https://doi.org/10.1016/j.inffus.2021.09.018
+Both entries share the same license terms (see [License](#license)).
 
 ## License
 
